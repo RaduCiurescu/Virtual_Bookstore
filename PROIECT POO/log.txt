@@ -1,0 +1,61 @@
+parola introdusa are mai putin de 3 caractere
+parola introdusa are mai putin de 3 caractere
+CNP-ul introdus nu este unic, va rugam reintroduceti un cnp unic
+CNP-ul introdus nu este unic, va rugam reintroduceti un cnp unic
+email-ul introdus nu este unic sau valid, va rugam reintroduceti un email unic
+email-ul introdus nu este unic sau valid, va rugam reintroduceti un email unic
+email-ul introdus nu este unic sau valid, va rugam reintroduceti un email unic
+email-ul introdus nu este unic sau valid, va rugam reintroduceti un email unic
+email-ul introdus nu este unic sau valid, va rugam reintroduceti un email unic
+Nu ati introdus datele corect, va rog sa verificati sau sa va creati un cont in caz ca nu aveti
+email-ul introdus este invalid, va rugam sa introduceti un email valid
+email-ul introdus este invalid, va rugam sa introduceti un email valid
+Nu ati introdus datele corect, va rog sa verificati sau sa va creati un cont in caz ca nu aveti
+email-ul introdus este invalid, va rugam sa introduceti un email valid
+email-ul introdus este invalid, va rugam sa introduceti un email valid
+CNP-ul introdus nu este unic, va rugam reintroduceti un cnp unic
+email-ul introdus este invalid, va rugam sa introduceti un email valid
+email-ul introdus este invalid, va rugam sa introduceti un email valid
+optiunea introdusa nu exista
+optiunea introdusa nu exista
+optiunea introdusa nu exista
+optiunea introdusa nu exista
+optiunea introdusa nu exista
+optiunea introdusa nu exista
+optiunea introdusa nu exista
+optiunea introdusa nu exista
+optiunea introdusa nu exista
+Nu ati introdus datele corect, va rog sa verificati sau sa va creati un cont in caz ca nu aveti
+optiunea introdusa nu exista
+email-ul introdus este invalid, va rugam sa introduceti un email valid
+optiunea introdusa nu exista
+email-ul introdus este invalid, va rugam sa introduceti un email valid
+optiunea introdusa nu exista
+Nu ati introdus datele corect, va rog sa verificati sau sa va creati un cont in caz ca nu aveti
+Nu ati introdus datele corect, va rog sa verificati sau sa va creati un cont in caz ca nu aveti
+CNP-ul introdus nu este unic, va rugam reintroduceti un cnp unic
+email-ul introdus este invalid, va rugam sa introduceti un email valid
+optiunea introdusa nu exista
+optiunea introdusa nu exista
+optiunea introdusa nu exista
+Nu exista cont creat cu acest email
+email-ul introdus este invalid, va rugam sa introduceti un email valid
+email-ul introdus este invalid, va rugam sa introduceti un email valid
+Nu ati introdus datele corect, va rog sa verificati sau sa va creati un cont in caz ca nu aveti
+optiunea introdusa nu exista
+email-ul introdus este invalid, va rugam sa introduceti un email valid
+email-ul introdus este invalid, va rugam sa introduceti un email valid
+email-ul introdus este invalid, va rugam sa introduceti un email valid
+email-ul introdus este invalid, va rugam sa introduceti un email valid
+Nu ati introdus datele corect, va rog sa verificati sau sa va creati un cont in caz ca nu aveti
+optiunea introdusa nu exista
+optiunea introdusa nu exista
+optiunea introdusa nu exista
+Cartea nu exista in magazinul nostruCartea nu exista in magazinul nostruCartea nu exista in magazinul nostruCartea nu exista in magazinul nostruCartea nu exista in magazinul nostruCartea nu exista in magazinul nostruNu ati introdus datele corect, va rog sa verificati sau sa va creati un cont in caz ca nu aveti
+Nu ati introdus datele corect, va rog sa verificati sau sa va creati un cont in caz ca nu aveti
+CNP-ul introdus nu este unic, va rugam reintroduceti un cnp unic
+CNP-ul introdus nu este unic, va rugam reintroduceti un cnp unic
+Cartea nu exista in magazinul nostru
+Cartea nu exista in magazinul nostru
+Cartea nu exista in magazinul nostru
+Cartea nu exista in magazinul nostru
