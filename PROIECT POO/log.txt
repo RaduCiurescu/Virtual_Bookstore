@@ -59,3 +59,9 @@ Cartea nu exista in magazinul nostru
 Cartea nu exista in magazinul nostru
 Cartea nu exista in magazinul nostru
 Cartea nu exista in magazinul nostru
+email-ul introdus este invalid, va rugam sa introduceti un email valid
+email-ul introdus este invalid, va rugam sa introduceti un email valid
+Nu exista cont creat cu acest email
+Nu ati introdus datele corect, va rog sa verificati sau sa va creati un cont in caz ca nu aveti
+Nu ati introdus datele corect, va rog sa verificati sau sa va creati un cont in caz ca nu aveti
+Nu ati introdus datele corect, va rog sa verificati sau sa va creati un cont in caz ca nu aveti

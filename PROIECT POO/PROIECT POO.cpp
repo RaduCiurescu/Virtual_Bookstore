@@ -161,11 +161,11 @@ public:
     }
     void adaugacarteinistoric(carte *carte)
     {
-        istoric.push_back(carte);  //!
+        istoric.push_back(carte);
     }
     void crestecheltuiala(float suma)
     {
-        cheltuit = cheltuit + suma; //!
+        cheltuit = cheltuit + suma; 
     }
     void afisareistoric()
     {
@@ -375,7 +375,8 @@ void meniu_autentificat(utilizator* utilizator,list<carte*>carti)
     string titlu;
     char opt, opt2;
     do {
-        cout << "\nAlegeti o optiune:\n1. Achizitie/Imprumut\n2. Istoric\n3. Contact\n4.Delogare\n"; cin >> opt;
+        cout << "\nBookstoreApp (" << utilizator->getnume() << ", " << utilizator->getprenume() << " )";
+        cout << "\n\nAlegeti o optiune:\n1. Achizitie/Imprumut\n2. Istoric\n3. Contact\n4.Inapoi\n"; cin >> opt;
         try{
         switch (opt)
         {
@@ -561,7 +562,13 @@ void citire_carti(list<carte*>& carti)
             carti.push_back(new carte_nonfictiune(titlu, autori, editura, pret, stoc, an_pub));
     }
 }
-
+void sortare_nume(list<utilizator*>& utilizatori)
+{
+    cout << "++++++++++++++++++++++++++++++++";
+    afisare_utilizatori(utilizatori);
+    utilizatori.sort();
+    afisare_utilizatori(utilizatori);
+}
 int main()
 {
     list<utilizator*>utilizatori;

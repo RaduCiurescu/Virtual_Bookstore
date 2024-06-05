@@ -24,6 +24,7 @@
     <ProjectGuid>{2420e225-734d-4639-807f-c41c8028c64f}</ProjectGuid>
     <RootNamespace>PROIECTPOO</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>BookStore</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

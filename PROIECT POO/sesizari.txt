@@ -46,3 +46,9 @@ Subsemnatul: qwerwq qwer,avand CNP: qwer
 qwerqwerqwrqwr
 Multumesc,
 qwerwq qwer
+
+Buna ziua,
+Subsemnatul: Pop Mihai,avand CNP: 4552345236234
+Nu merge sa cumpar.
+Multumesc,
+Pop Mihai
